@@ -2,15 +2,14 @@
 
 ## Hi there 👋
 
-I describe myself as a lifelong learner. Professionally focused on cloud tech and DevOps culture. Technology enthusiast, active learner and avid contributor.
+Lifelong learner.
 
 ## 🛠 I’m currently working with
 
+- Typescript
 - Python
-- Gitlab CI&CD
-- Linux
-- AWS, Azure
-- Cloudformation
+- AWS
+- Terraform CDK
 
 ## 📜 Articles and talks
 
@@ -20,7 +19,7 @@ I describe myself as a lifelong learner. Professionally focused on cloud tech an
 ## 🌱 I’m currently learning
 
 - Docker
-- Terraform
+- Helm
 
 <!--
 **etesor/etesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
