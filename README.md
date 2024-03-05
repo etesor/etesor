@@ -13,13 +13,12 @@ Lifelong learner.
 
 ## 📜 Articles and talks
 
-- [Understanding Infrastructure as Code](https://www.ipointsystems.com/blog/2020/september/understandinginfrastructure)
 - [El futuro se construye hoy](https://medium.com/@arturorosete2/el-futuro-se-construye-hoy-907e1971cac1)
 
 ## 🌱 I’m currently learning
 
 - Docker
-- Helm
+- GCP
 
 <!--
 **etesor/etesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
