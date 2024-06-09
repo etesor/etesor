@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-Lifelong learner.
+I like to describe myself as a Lifelong learner. That's it. I do like to build stuff, learn new things and explore the feeling of _being new_ at something.
 
-## 🛠 I’m currently working with
+## 💬 Ask me about ...
 
 - Typescript
 - Python
@@ -17,7 +17,6 @@ Lifelong learner.
 
 ## 🌱 I’m currently learning
 
-- Docker
 - GCP
 
 <!--
